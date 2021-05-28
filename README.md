@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [yeahcoach.com](https://www.yeahcoach.com)
+- 🌱 I’m currently mastering Advanced TypeScript features
+
 <!--
 **svobik7/svobik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
