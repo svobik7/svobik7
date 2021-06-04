@@ -11,7 +11,7 @@ Feel free to reach me on [Email](mailto:svobik7@gmail.com) or [GitHub](https://g
 ## 💻 Technical Experience
 
 **Fullstack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) _(Mar 2015 - Present)_ <br>
-Social network platform
+_Social network platform_
   - Creating multilingual and SEO optimized frontend
   - Creating DB & backend API architecture
   - Managing dev team and approving their PRs
@@ -20,14 +20,14 @@ Social network platform
 <br><br>
 
 **Fullstack Engineer** @ D solutions _(Jun 2011 - Jan 2015)_ <br>
-Digital agency offering web solutions based in Prague
+_Digital agency offering web solutions based in Prague_
   - Building custom PHP projects using Yii2 framework
   - Creating websites using OpenCart or WordPress
   - **_Technologies used:_** PHP, SQL, HTML, CSS, JS
 <br><br>
 
 **Student** @ [Czech Technical Univesity](https://fel.cvut.cz/en/) _(Jun 2009 - Jan 2012)_ <br>
-Faculty of Electrical Engineering, specialization in web and multimedia
+_Faculty of Electrical Engineering, specialization in web and multimedia_
   - Building school projects in various languages
   - **_Technologies used:_** JAVA, C, PHP, SQL, UML
 <br><br>
@@ -35,7 +35,7 @@ Faculty of Electrical Engineering, specialization in web and multimedia
 ## 📌 On The Side
 
 **Contributing developer** @ [Blitz.js](https://github.com/blitz-js/blitz) _(Jul 2020 - Present)_ <br>
-The Fullstack React Framework
+_The Fullstack React Framework_
 <br><br>
 
 ## 🏗️ Own Work
