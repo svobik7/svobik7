@@ -20,7 +20,7 @@ _Social network platform_
 <br><br>
 
 **Fullstack Engineer** @ D solutions _(Jun 2011 - Jan 2015)_ <br>
-_Digital agency offering web solutions based in Prague_
+_Digital agency offering web solutions, based in Prague_
   - Building custom PHP projects using Yii2 framework
   - Creating websites using OpenCart or WordPress
   - **_Technologies used:_** PHP, SQL, HTML, CSS, JS
@@ -52,7 +52,7 @@ _The Fullstack React Framework_
 ## 👩🏼‍🎓 Courses
 
 **React Testing with Jest and Enzyme**<br>
-[American University](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
+[Udemy Academy](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
 
 **The Complete Guide to Advanced React Component Patterns**<br>
 [Udemy Academy](https://www.udemy.com/course/the-complete-guide-to-advanced-react-patterns/)
