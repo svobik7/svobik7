@@ -52,17 +52,13 @@ _The Fullstack React Framework_
 ## 👩🏼‍🎓 Courses
 
 **React Testing with Jest and Enzyme**<br>
-[American University](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) - Washington DC, USA _(Fall 2014)_
+[American University](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
 
 **The Complete Guide to Advanced React Component Patterns**<br>
 [Udemy Academy](https://www.udemy.com/course/the-complete-guide-to-advanced-react-patterns/)
 
 **Understanding TypeScript**<br>
 [Udemy Academy](https://www.udemy.com/course/understanding-typescript/)
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
-<br><br>
 
 ## 👉 Want To Learn
 - React Native
