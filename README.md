@@ -1,6 +1,6 @@
 # Jirka Svoboda
 
-- enthusiastic full-stack developer 🍀 
+- enthusiastic full-stack web developer 🍀 
 - with passion for TypeScript ❤️ 
 - using Next.js, React.js, Blitz.js or Yii2 🚀 
 - based in Prague, Czech Republic 🇨🇿
@@ -13,7 +13,7 @@ Feel free to reach me on [Email](mailto:svobik7@gmail.com) or [GitHub](https://g
 **Fullstack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) _(Mar 2015 - Present)_ <br>
 _Social network platform_
   - Creating multilingual and SEO optimized frontend
-  - Creating DB & backend API architecture
+  - Creating DB & API backend architecture
   - Managing dev team and approving their PRs
   - Looking after processes and infrastructure
   - **_Technologies used:_** Next.js, React.js, TypeScript, PHP, SQL, Yii2, Material UI, Vercel, IMGIX, NGINX
