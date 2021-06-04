@@ -12,11 +12,11 @@ Feel free to reach me on [Email](mailto:svobik7@gmail.com) or [GitHub](https://g
 
 **Fullstack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) _(Mar 2015 - Present)_ <br>
 Social network platform
-  - Creating multilangual and SEO optimized frontend
+  - Creating multilingual and SEO optimized frontend
   - Creating DB & backend API architecture
   - Managing dev team and approving their PRs
   - Looking after processes and infrastructure
-  - **_Technologies used:_** Next.js, React.js, TypeScript, PHP, SQL, Yii2, JSS, Material UI, JIRA Software, Trello, Git, Vercel, NGINX, GA, 
+  - **_Technologies used:_** Next.js, React.js, TypeScript, PHP, SQL, Yii2, Material UI, Vercel, IMGIX, NGINX
 <br><br>
 
 **Fullstack Engineer** @ D solutions _(Jun 2011 - Jan 2015)_ <br>
@@ -64,15 +64,6 @@ The Fullstack React Framework
 [Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
 <br><br>
 
-## 🧰 Can use
-- VS Code, macOS
-- Slack, Trello, JIRA
-- GitHub, BitBucket, GitLab
-- TypeScript, Next.js, React.js, Node.js, Yii2
-- Vercel.com, DigitalOcean.com, Imgix.com, Nginx
-- Google Analytics, Google Optimize
-<br><br>
-
 ## 👉 Want To Learn
 - React Native
 - Fastify or NestJS
@@ -82,6 +73,12 @@ The Fullstack React Framework
 - Fitness, badminton, sport climbing
 - Cooking, Piano, meditation
 - ...and more
+<br><br>
+
+## 🧰 Toolbox
+- VS Code, macOS
+- Slack, Trello, JIRA
+- GitHub, BitBucket, Vercel, DigitalOcean
 <br><br>
 
 <!--
