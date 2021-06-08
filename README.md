@@ -77,6 +77,7 @@ _The Fullstack React Framework_
 - GitHub, BitBucket, Vercel, DigitalOcean
 <br><br>
 
+Website CV version: https://svobik7.github.io/svobik7/
 <!--
 **svobik7/svobik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
