@@ -46,7 +46,7 @@ _The Fullstack React Framework_
 ## 💬 Languages
 
 **Czech**: Native <br>
-**English**: Fluent
+**English**: B2+
 <br><br>
 
 ## 👩🏼‍🎓 Courses
