@@ -2,7 +2,7 @@
 
 - enthusiastic full-stack web developer 🍀 
 - with passion for TypeScript ❤️ 
-- using Next.js, React.js, Blitz.js or Yii2 🚀 
+- using Next.js, React.js, Tailwind, Prisma and tRPC 🚀 
 - based in Prague, Czech Republic 🇨🇿
 - born in 1989 🎂
 
@@ -34,7 +34,11 @@ _Faculty of Electrical Engineering, specialization in web and multimedia_
 
 ## 📌 On The Side
 
-**Contributing developer** @ [Blitz.js](https://github.com/blitz-js/blitz) _(Jul 2020 - Present)_ <br>
+**Resumable examiner** @ [Qwik](https://qwik.builder.io/) _(since 2022)_ <br>
+_Resumable JavaScript framework_
+<br><br>
+
+**Former contributor** @ [Blitz.js](https://github.com/blitz-js/blitz) _(Jul 2020 - 2021)_ <br>
 _The Fullstack React Framework_
 <br><br>
 
@@ -60,14 +64,18 @@ _The Fullstack React Framework_
 **Understanding TypeScript**<br>
 [Udemy Academy](https://www.udemy.com/course/understanding-typescript/)
 
+**Practical Guide To React Native**<br>
+[Udemy Academy](https://www.udemy.com/course/react-native-the-practical-guide/)
+
 ## 👉 Want To Learn
-- React Native
+- React Native ✅
+- 
 - Fastify or NestJS
 <br><br>
 
 ## 🙂 Hobbies
 - Fitness, badminton, sport climbing
-- Cooking, Piano, meditation
+- Cooking, piano, meditation
 - ...and more
 <br><br>
 
