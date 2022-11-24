@@ -2,7 +2,7 @@
 
 - enthusiastic full-stack web developer 🍀 
 - with passion for TypeScript ❤️ 
-- using Next.js, React.js, Tailwind, Prisma and tRPC 🚀 
+- fan of Next.js, React.js, Tailwind, Prisma and tRPC 🚀 
 - based in Prague, Czech Republic 🇨🇿
 - born in 1989 🎂
 
@@ -10,7 +10,16 @@ Feel free to reach me on [Email](mailto:svobik7@gmail.com), [GitHub](https://git
 
 ## 💻 Technical Experience
 
-**Fullstack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) _(Mar 2015 - Present)_ <br>
+**Lead Engineer (Senior Engineer)** @ [EPAM](https://www.epam.com/) _(Jun 2021 - Present)_ <br>
+_Multiple projects_
+  - Hired as Senior Software Engineer in 2021
+  - Promoted to Lead role in 2022
+  - Mainly working on FEs based on React.js
+  - Involved in cross-team management
+  - **_Technologies used:_** React.js, Redux Toolkit, RTQ, AG-Grid, ...
+<br><br>
+
+**Fullstack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) _(Mar 2015 - Jun 2021)_ <br>
 _Social network platform_
   - Creating multilingual and SEO optimized frontend
   - Creating DB & API backend architecture
@@ -69,8 +78,7 @@ _The Fullstack React Framework_
 
 ## 👉 Want To Learn
 - React Native ✅
-- 
-- Fastify or NestJS
+- Prisma + tRPC
 <br><br>
 
 ## 🙂 Hobbies
