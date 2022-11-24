@@ -6,7 +6,11 @@
 - based in Prague, Czech Republic 🇨🇿
 - born in 1989 🎂
 
-Feel free to reach me on [Email](mailto:svobik7@gmail.com), [GitHub](https://github.com/svobik7/) or [StackOverflow](https://stackoverflow.com/users/4610318/jirka-svoboda)
+Feel free to reach me on 
+- [Email](mailto:svobik7@gmail.com)
+- [GitHub](https://github.com/svobik7/)
+- [StackOverflow](https://stackoverflow.com/users/4610318/jirka-svoboda)
+- [LinkedIn](https://www.linkedin.com/in/svobik7)
 
 ## 💻 Technical Experience
 
