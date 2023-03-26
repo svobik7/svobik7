@@ -60,8 +60,6 @@ _Faculty of Electrical Engineering, specialization in web and multimedia_
 
 - **Resumable examiner** @ [Qwik](https://qwik.builder.io/) _(since 2022)_ <br>
 _Resumable JavaScript framework_
-<br><br>
-
 - **Former contributor** @ [Blitz.js](https://github.com/blitz-js/blitz) _(Jul 2020 - 2021)_ <br>
 _The Fullstack React Framework_
 <br><br>
