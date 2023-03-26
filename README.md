@@ -1,4 +1,4 @@
-![Jirka Svoboda](./jiri-svoboda-avatar.jpg)
+![Jirka Svoboda](https://svobik7.github.io/svobik7/jiri-svoboda-avatar.jpg)
 # Jirka Svoboda
 
 - enthusiastic full-stack web developer 🍀 
@@ -17,17 +17,27 @@ Feel free to reach me on
 
 ## 💻 Technical Experience
 
-**Lead Engineer (Senior Engineer)** @ [EPAM](https://www.epam.com/) _(Jun 2021 - Present)_ <br>
-_Multiple projects_
-  - Hired as Senior Software Engineer in 2021
-  - Promoted to Lead role in 2022
-  - Mainly working on FEs based on React.js
-  - Involved in cross-team management
-  - **_Technologies used:_** React.js, Redux Toolkit, RTK Query, AG-Grid, ...
+**Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
+_(Jan 2022 - Present)_
+  - Turning MVP into fully-featured project built on React.js
+  - Making the main architercute decisions
+  - Establishing e2e testing and code quality metrics
+  - Integrating the project into client's platform
+  - Co-working with DevOps on enhancing CI/CD process
+  - Being the point of contact in cross-team communication
+  - Mentoring others about React.js
+  - **_Technologies used:_** React.js, Redux Toolkit, RTK Query, AG-Grid, Bootstrap, Zod, Cypress
 <br><br>
 
-**Fullstack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) _(Mar 2015 - Jun 2021)_ <br>
-_Social network platform_
+**Senior Engineer** @ [EPAM](https://www.epam.com/) <br>
+_(Jun 2021 - Jan 2022)_
+  - Maitaining of existing modules and components
+  - Adapting AG-Grid to client's needs
+  - **_Technologies used:_** Stencil.js, Rambda.js, Web-components, AG-Grid, Express.js, JIRA, Git, Swagger
+<br><br>
+
+**Fullstack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) <br>
+_(Mar 2015 - Jun 2021)_
   - Creating multilingual and SEO optimized frontend
   - Creating DB & API backend architecture
   - Managing dev team and approving their PRs
@@ -35,15 +45,16 @@ _Social network platform_
   - **_Technologies used:_** Next.js, React.js, TypeScript, PHP, SQL, Yii2, Material UI, Vercel, IMGIX, NGINX
 <br><br>
 
-**Fullstack Engineer** @ D solutions _(Jun 2011 - Jan 2015)_ <br>
-_Digital agency offering web solutions, based in Prague_
+**Fullstack Engineer** @ D solutions <br>
+_(Jun 2011 - Jan 2015)_
   - Building custom PHP projects using Yii2 framework
   - Creating websites using OpenCart or WordPress
+  - Gathering feedback from customers
   - **_Technologies used:_** PHP, SQL, HTML, CSS, JS
 <br><br>
 
-**Student** @ [Czech Technical Univesity](https://fel.cvut.cz/en/) _(Jun 2009 - Jan 2012)_ <br>
-_Faculty of Electrical Engineering, specialization in web and multimedia_
+**Student** @ [Czech Technical Univesity](https://fel.cvut.cz/en/) <br>
+_(Jun 2009 - Jan 2012)_
   - Building school projects in various languages
   - **_Technologies used:_** JAVA, C, PHP, SQL, UML
 <br><br>
