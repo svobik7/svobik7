@@ -12,6 +12,8 @@ Feel free to reach me on
 - [StackOverflow](https://stackoverflow.com/users/4610318/jirka-svoboda)
 - [LinkedIn](https://www.linkedin.com/in/svobik7)
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 ## 💻 Technical Experience
 
 **Lead Engineer (Senior Engineer)** @ [EPAM](https://www.epam.com/) _(Jun 2021 - Present)_ <br>
@@ -44,6 +46,8 @@ _Faculty of Electrical Engineering, specialization in web and multimedia_
   - Building school projects in various languages
   - **_Technologies used:_** JAVA, C, PHP, SQL, UML
 <br><br>
+
+<div style="page-break-after: always; visibility: hidden"></div>
 
 ## 👨‍🏫 Mentoring Experience
 
