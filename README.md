@@ -20,7 +20,7 @@ Feel free to reach me on
 **Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
 _(Jan 2022 - Present)_
   - Turning MVP into fully-featured project built on React.js
-  - Making the main architercute decisions
+  - Making the main architecture decisions
   - Establishing e2e testing and code quality metrics
   - Integrating the project into client's platform
   - Co-working with DevOps on enhancing CI/CD process
@@ -31,12 +31,12 @@ _(Jan 2022 - Present)_
 
 **Senior Engineer** @ [EPAM](https://www.epam.com/) <br>
 _(Jun 2021 - Jan 2022)_
-  - Maitaining of existing modules and components
+  - Maintaining of existing modules and components
   - Adapting AG-Grid to client's needs
   - **_Technologies used:_** Stencil.js, Rambda.js, Web-components, AG-Grid, Express.js, JIRA, Git, Swagger
 <br><br>
 
-**Fullstack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) <br>
+**Full-stack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) <br>
 _(Mar 2015 - Jun 2021)_
   - Creating multilingual and SEO optimized frontend
   - Creating DB & API backend architecture
@@ -45,7 +45,7 @@ _(Mar 2015 - Jun 2021)_
   - **_Technologies used:_** Next.js, React.js, TypeScript, PHP, SQL, Yii2, Material UI, Vercel, IMGIX, NGINX
 <br><br>
 
-**Fullstack Engineer** @ D solutions <br>
+**Full-stack Engineer** @ D solutions <br>
 _(Jun 2011 - Jan 2015)_
   - Building custom PHP projects using Yii2 framework
   - Creating websites using OpenCart or WordPress
