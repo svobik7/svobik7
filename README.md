@@ -85,6 +85,8 @@ _The Fullstack React Framework_
 - **Practical Guide To React Native** @ [Udemy Academy](https://www.udemy.com/course/react-native-the-practical-guide/)
 <br><br>
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 ## 👉 Want To Learn
 
 - React Native ✅
