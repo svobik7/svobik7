@@ -85,6 +85,7 @@ _The Fullstack React Framework_
 
 - React Native ✅
 - Prisma + tRPC
+- Spanish
 <br><br>
 
 ## 🙂 Hobbies
