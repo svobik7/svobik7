@@ -85,6 +85,7 @@ _The Fullstack React Framework_
 
 - React Native ✅
 - Prisma + tRPC
+- PartyTown by Builder.io
 - Spanish
 <br><br>
 
