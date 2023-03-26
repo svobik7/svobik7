@@ -1,3 +1,4 @@
+![Jirka Svoboda](./jiri-svoboda-avatar.jpg)
 # Jirka Svoboda
 
 - enthusiastic full-stack web developer 🍀 
