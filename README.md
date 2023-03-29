@@ -74,7 +74,7 @@ _(Jun 2009 - Jan 2012)_
 <br><br>
 
 ## 📒 Articles
-- [Steb-by-step guide for SEO friendly i18n routes in Next.js 13](https://dev.to/svobik7/step-by-step-guide-for-seo-friendly-i18n-routes-in-nextjs-13-3j0f)
+- [Step-by-step guide for SEO friendly i18n routes in Next.js 13](https://dev.to/svobik7/step-by-step-guide-for-seo-friendly-i18n-routes-in-nextjs-13-3j0f)
 - [Don't use dynamic \[lang\] segment for your i18n Next.js routes](https://dev.to/svobik7/dont-use-dynamic-lang-segment-for-your-i18n-nextjs-routes-3k05)
 <br><br>
 
