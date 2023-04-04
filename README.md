@@ -19,6 +19,7 @@ Feel free to reach me on
 
 **Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
 _(Jan 2022 - Present)_
+  - Segments: Finance, Trading
   - Turning MVP into fully-featured project built on React.js
   - Making the main architecture decisions
   - Establishing e2e testing and code quality metrics
@@ -31,6 +32,7 @@ _(Jan 2022 - Present)_
 
 **Senior Engineer** @ [EPAM](https://www.epam.com/) <br>
 _(Jun 2021 - Jan 2022)_
+  - Segments: Finance, Trading
   - Maintaining of existing modules and components
   - Adapting AG-Grid to client's needs
   - **_Technologies used:_** Stencil.js, Rambda.js, Web-components, AG-Grid, Express.js, JIRA, Git, Swagger
@@ -38,6 +40,7 @@ _(Jun 2021 - Jan 2022)_
 
 **Full-stack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) <br>
 _(Mar 2015 - Jun 2021)_
+  - Segments: Social network, Community hub, Education, Self-development, Mindfullness, Philanthropy
   - Creating multilingual and SEO optimized frontend
   - Creating DB & API backend architecture
   - Managing dev team and approving their PRs
@@ -47,6 +50,7 @@ _(Mar 2015 - Jun 2021)_
 
 **Full-stack Engineer** @ D solutions <br>
 _(Jun 2011 - Jan 2015)_
+  - Segmnents: E-commerce, Web presentations
   - Building custom PHP projects using Yii2 framework
   - Creating websites using OpenCart or WordPress
   - Gathering feedback from customers
