@@ -20,7 +20,7 @@ Feel free to reach me on
 **Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
 _(Jan 2022 - Present)_
   - **Segments**: Finance, Trading
-  - **_Technologies used:_** React.js, Redux Toolkit, RTK Query, AG-Grid, Bootstrap, Zod, Cypress, Node.js, Express.js, GitLab, Jenkins
+  - **Technologies used**: React.js, Redux Toolkit, RTK Query, AG-Grid, Bootstrap, Zod, Cypress, Node.js, Express.js, GitLab, Jenkins
   - Turning MVP into fully-featured project built on React.js
   - Making the main architecture decisions
   - Establishing e2e testing and code quality metrics
@@ -33,7 +33,7 @@ _(Jan 2022 - Present)_
 **Senior Engineer** @ [EPAM](https://www.epam.com/) <br>
 _(Jun 2021 - Jan 2022)_
   - **Segments**: Finance, Trading
-  - **_Technologies used:_** Stencil.js, Rambda.js, Web-components, AG-Grid, Express.js, JIRA, GitLab, Swagger, Jenkins
+  - **Technologies used**: Stencil.js, Rambda.js, Web-components, AG-Grid, Express.js, JIRA, GitLab, Swagger, Jenkins
   - Maintaining of existing modules and components
   - Adapting AG-Grid to client's needs
 <br><br>
@@ -41,7 +41,7 @@ _(Jun 2021 - Jan 2022)_
 **Full-stack Engineer** @ [YeahCoach](https://www.yeahcoach.com/) <br>
 _(Mar 2015 - Jun 2021)_
   - **Segments**: Social network, Community hub, Education, Self-development, Mindfullness, Philanthropy
-  - **_Technologies used:_** Next.js, React.js, TypeScript, PHP, SQL, Yii2, Material UI, Vercel, IMGIX, NGINX, Google Cloud, Bitbucket
+  - **Technologies used**: Next.js, React.js, TypeScript, PHP, SQL, Yii2, Material UI, Vercel, IMGIX, NGINX, Google Cloud, Bitbucket
   - Creating multilingual and SEO optimized frontend
   - Creating DB & API backend architecture
   - Managing dev team and approving their PRs
@@ -51,7 +51,7 @@ _(Mar 2015 - Jun 2021)_
 **Full-stack Engineer** @ D solutions <br>
 _(Jun 2011 - Jan 2015)_
   - **Segmnents**: E-commerce, Web presentations
-  - **_Technologies used:_** PHP, SQL, HTML, CSS, JS, jQuery
+  - **Technologies used**: PHP, SQL, HTML, CSS, JS, jQuery
   - Building custom PHP projects using Yii2 framework
   - Creating websites using OpenCart or WordPress
   - Gathering feedback from customers
@@ -60,7 +60,7 @@ _(Jun 2011 - Jan 2015)_
 **Student** @ [Czech Technical Univesity](https://fel.cvut.cz/en/) <br>
 _(Jun 2009 - Jan 2012)_
   - **Segments**: Web & multimedia
-  - **_Technologies used:_** JAVA, C, PHP, SQL, UML, JavaScript, jQuery
+  - **Technologies used**: JAVA, C, PHP, SQL, UML, JavaScript, jQuery
   - Building school projects in various languages
 <br><br>
 
