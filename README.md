@@ -17,8 +17,6 @@ Feel free to reach me on
 
 ## 💻 Technical Experience
 
-## 💻 Technical Experience
-
 **Tech Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
 _(Jan 2024 - Present)_
   - **Segments**: Pharmacy, Business Intelligence
