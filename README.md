@@ -18,7 +18,7 @@ Feel free to reach me on
 ## 💻 Technical Experience
 
 **Tech Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
-_(Jan 2024 - Present)_
+_(Mar 2023 - Present)_
   - **Segments**: Pharmacy, Business Intelligence
   - **Technologies used**: Next.js, AntD, Prisma, tRPC, Zustand, Zod, Vitest, Node.js, AWS, GitHub, Jenkins
   - Integrating multiple BI tools into single platform
@@ -28,7 +28,7 @@ _(Jan 2024 - Present)_
 <br><br>
 
 **Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
-_(Jan 2022 - 2024)_
+_(Jan 2022 - Mar 2023)_
   - **Segments**: Finance, Trading
   - **Technologies used**: React.js, Redux Toolkit, RTK Query, AG-Grid, Bootstrap, Zod, Cypress, Node.js, Express.js, GitLab, Jenkins
   - Turning MVP into fully-featured project built on React.js
