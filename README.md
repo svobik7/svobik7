@@ -17,12 +17,24 @@ Feel free to reach me on
 
 ## 💻 Technical Experience
 
+## 💻 Technical Experience
+
+**Tech Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
+_(Jan 2024 - Present)_
+  - **Segments**: Pharmacy, Business Intelligence
+  - **Technologies used**: Next.js, AntD, Prisma, tRPC, Zustand, Zod, Vitest, Node.js, AWS, GitHub, Jenkins
+  - Integrating multiple BI tools into single platform
+  - Making technical decisions about architecture
+  - Establishing testing and code quality metrics
+  - Mentoring other team members
+<br><br>
+
 **Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
-_(Jan 2022 - Present)_
+_(Jan 2022 - 2024)_
   - **Segments**: Finance, Trading
   - **Technologies used**: React.js, Redux Toolkit, RTK Query, AG-Grid, Bootstrap, Zod, Cypress, Node.js, Express.js, GitLab, Jenkins
   - Turning MVP into fully-featured project built on React.js
-  - Making the main architecture decisions
+  - Making architecture decisions
   - Establishing e2e testing and code quality metrics
   - Integrating the project into client's platform
   - Co-working with DevOps on enhancing CI/CD process
