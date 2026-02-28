@@ -126,6 +126,16 @@ _The Fullstack React Framework_
 - Spanish
 <br><br>
 
+## 👀 Subscribe / Watch This Repo
+
+Clicking **Watch** on this repository will subscribe you to GitHub notifications whenever this profile README is updated. That means you'll be among the first to know when I:
+
+- Update my employment status or work experience
+- Add new open-source projects or articles
+- Refresh my skill set or learning goals
+
+It's a lightweight way to follow my professional journey without any extra tooling.
+
 ## 🙂 Hobbies
 
 - Fitness, badminton, sport climbing
