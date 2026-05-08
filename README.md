@@ -3,7 +3,8 @@
 
 - 🍀 enthusiastic full-stack web developer
 - ❤️ with passion for TypeScript 
-- 🚀 fan of Next.js, React.js, Tailwind, Prisma and tRPC 
+- 🚀 fan of Next.js, React.js, Tailwind, Prisma and tRPC
+- 🤖 experimenting with Cursor and Cursor SDK
 - 🇨🇿 based in Prague, Czech Republic
 - 🎂 born in 1989
 
@@ -25,6 +26,7 @@ _(Mar 2023 - Present)_
   - Making technical decisions about architecture
   - Establishing testing and code quality metrics
   - Mentoring other team members
+  - **AI Stack**: Claude Code, AI SDK
 <br><br>
 
 **Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
@@ -38,6 +40,7 @@ _(Jan 2022 - Mar 2023)_
   - Co-working with DevOps on enhancing CI/CD process
   - Being the point of contact in cross-team communication
   - Mentoring others about React.js
+  - **AI Stack**: Cline, Copilot, AI SDK
 <br><br>
 
 **Senior Engineer** @ [EPAM](https://www.epam.com/) <br>
