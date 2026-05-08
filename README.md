@@ -8,6 +8,8 @@
 - 🇨🇿 based in Prague, Czech Republic
 - 🎂 born in 1989
 
+
+
 Feel free to reach me on 
 - [Email](mailto:svobik7@gmail.com)
 - [GitHub](https://github.com/svobik7/)
@@ -112,6 +114,7 @@ _The Fullstack React Framework_
 
 ## 👩🏼‍🎓 Courses
 
+- **Claude Code Architect** @ [Anthropic](https://verify.skilljar.com/c/m36ychnh7tyw)
 - **React Native** @ EPAM Academy (internal)
 - **React Testing with Jest and Enzyme** @ [Udemy Academy](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
 - **The Complete Guide to Advanced React Component Patterns** @ [Udemy Academy](https://www.udemy.com/course/the-complete-guide-to-advanced-react-patterns/)
@@ -120,14 +123,6 @@ _The Fullstack React Framework_
 <br><br>
 
 <div style="page-break-after: always; visibility: hidden"></div>
-
-## 👉 Want To Learn
-
-- React Native ✅
-- Prisma + tRPC
-- PartyTown by Builder.io
-- Spanish
-<br><br>
 
 ## 🙂 Hobbies
 
@@ -138,7 +133,7 @@ _The Fullstack React Framework_
 
 ## 🧰 Toolbox
 
-- VS Code, macOS
+- Cursor, VS Code, macOS
 - Slack, Trello, JIRA
 - GitHub, BitBucket, Vercel, DigitalOcean
 <br><br>
