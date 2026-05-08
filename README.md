@@ -100,7 +100,7 @@ _(Jun 2009 - Jan 2012)_
 
 ## 📌 On The Side
 
-- **Resumable examiner** @ [Qwik](https://qwik.builder.io/) _(since 2022)_ <br>
+- **Resumable examiner** @ [Qwik](https://qwik.builder.io/) _(2022 - 2023)_ <br>
 _Resumable JavaScript framework_
 - **Former contributor** @ [Blitz.js](https://github.com/blitz-js/blitz) _(Jul 2020 - 2021)_ <br>
 _The Fullstack React Framework_
