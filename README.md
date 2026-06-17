@@ -1,10 +1,10 @@
 ![Jirka Svoboda](https://svobik7.github.io/svobik7/jiri-svoboda-avatar.jpg)
 # Jirka Svoboda
 
-- 🍀 enthusiastic full-stack web developer
-- ❤️ with passion for TypeScript 
-- 🚀 fan of Next.js, React.js, Tailwind, Prisma and tRPC
-- 🤖 experimenting with Cursor and Cursor SDK
+- 🤖 AI & full-stack engineer building intelligent applications
+- ❤️ passionate about AI agents, AI SDK and LLM-powered systems
+- 🚀 Next.js, TypeScript, AWS, Langfuse and Vercel
+- 🛠️ daily driving Cursor, Claude Code, Copilot
 - 🇨🇿 based in Prague, Czech Republic
 - 🎂 born in 1989
 
@@ -23,12 +23,14 @@ Feel free to reach me on
 **Tech Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
 _(Mar 2023 - Present)_
   - **Segments**: Pharmacy, Business Intelligence
-  - **Technologies used**: Next.js, AntD, Prisma, tRPC, Zustand, Zod, Vitest, Node.js, AWS, GitHub, Jenkins
+  - **Technologies used**: Next.js, AI SDK, Tailwind, Drizzle, AntD, Prisma, tRPC, Zustand, Zod, Vitest, Node.js, AWS, GitHub
   - Integrating multiple BI tools into single platform
   - Making technical decisions about architecture
+  - Building AI-driven features and automation pipelines using AI SDK and AWS Bedrock
+  - Integrating Langfuse for LLM observability and tracing
   - Establishing testing and code quality metrics
   - Mentoring other team members
-  - **AI Stack**: Claude Code, AI SDK
+  - **AI Stack**: Claude Code, Copilot, AI SDK, AWS Bedrock
 <br><br>
 
 **Lead Engineer** @ [EPAM](https://www.epam.com/) <br>
@@ -78,6 +80,15 @@ _(Jun 2009 - Jan 2012)_
   - **Technologies used**: JAVA, C, PHP, SQL, UML, JavaScript, jQuery
   - Building school projects in various languages
 <br><br>
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+## 🤖 AI & Agents Development Experience
+
+- Building AI agents and automation pipelines using **AI SDK** (Vercel)
+- Integrating **AWS Bedrock** for enterprise LLM deployments
+- Using **Langfuse** for LLM observability, tracing and evaluation
+- Experienced with **Claude Code**, **Cursor** and **Copilot** for agentic coding workflows
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -133,7 +144,7 @@ _The Fullstack React Framework_
 
 ## 🧰 Toolbox
 
-- Cursor, VS Code, macOS
+- Cursor, Claude Code, Cursor, Copilot, VS Code, macOS
 - Slack, Trello, JIRA
 - GitHub, BitBucket, Vercel, DigitalOcean
 <br><br>
