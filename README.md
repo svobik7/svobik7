@@ -51,6 +51,7 @@ _(Jan 2022 - Mar 2023)_
 _(Jun 2021 - Jan 2022)_
   - **Segments**: Finance, Trading
   - **Technologies used**: Stencil.js, Rambda.js, Web-components, AG-Grid, Express.js, JIRA, GitLab, Swagger, Jenkins
+  - Developing admin FE panel for trading platform
   - Maintaining of existing modules and components
   - Adapting AG-Grid to client's needs
 <br><br>
